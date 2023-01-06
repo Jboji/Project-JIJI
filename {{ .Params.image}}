@@ -1,0 +1,259 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Delta Run Snow Grove Band</title>
+  <style>
+body
+{
+	font-family: "Titillium+Web" , sans-serif ;
+	margin: 0;
+}
+p{margin-top:0; padding: 10px;}
+h1{margin-top:0;}
+h2{margin-top:0;}
+footer
+{
+    color:#8a8a8a;
+    font-size: 0.5em;
+    text-transform: uppercase;
+    margin-left: auto;
+    margin-right: 0;
+    margin-bottom: 0;
+    float: bottom;
+    float: right;
+    display: flex;
+}
+input , textarea
+{
+	width: 100%;
+}
+
+a
+{
+	text-decoration-line: none;	
+	color: red;
+}
+
+.container
+{	
+
+	width: 95%;
+	max-width: 1265px;
+	max-height: 1168px;
+	min-height: 1168px;
+	 
+	margin: 0 auto;
+	position: relative;
+	top: 50px;
+}
+
+.NAV-Wrapper
+{
+	
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	 
+
+
+	
+}
+.NAV-Link-Cover
+{
+	border-bottom: 1px solid transparent;
+    border-top: 1px solid black;
+	transition: border-top 0.5s;
+	flex-grow: 1;
+	text-align: center;
+}
+
+.NAV-Link-Cover a
+{
+    color:#8a8a8a;
+    text-decoration: none;
+	transition: color 0.5s;
+	
+}
+
+.NAV-Link-Cover:hover
+{
+	border-top: 5px solid red;
+}
+
+.NAV-Link-Cover a:hover
+{
+	color: black;
+}
+.Right-Side
+{
+    display: flex;
+    align-items: center;
+	justify-content: center;
+    width: 100%;
+    
+}
+.NAV-Cover>.Right-Side>div
+{
+    
+    font-size: 0.75em;
+    text-transform: uppercase;
+    width:100%;
+}
+.Active-NAV-Link
+{
+	border-top: 5px solid red;
+}
+
+.Active-NAV-Link a
+{
+	color: red !important; 
+}
+
+.Left-Side
+{
+    float: left;
+    margin: 10px;
+}
+
+.Left-Side> img
+{
+    
+    width: 100%;
+}
+
+.single-container
+{
+	display:flex;
+	border-top:10px solid red;
+
+	width: 100%
+	height: 100%;
+	background-color: red;
+	max-height:1004px;
+	min-height:1004px;
+
+	align-items:center;
+	justify-items:center ;
+
+}
+.single-container>img
+{
+	display:block;
+	margin:auto;
+}
+
+.gallery-container::-webkit-scrollbar { width: 0 !important }  
+.gallery-container
+{
+	border-top:10px solid red;
+
+	width: 100%
+	height: 100%;
+	background-color: red;
+	max-height:1004px;
+	min-height:1004px;
+
+	overflow: scroll; 
+
+}
+.gallery-grid
+{
+	
+	overflow:hidden;
+	max-width: 100%;
+	
+	display:grid;
+	grid-template-columns: repeat(auto-fit,minmax(15rem,1fr));
+	grid-auto-rows: 315px;
+	grid-gap: 5px;
+	grid-auto-flow: dense;
+	column-width: 356px;
+
+
+}
+.gallery-card
+{
+	margin:0;
+	width:100%;
+		overflow:hidden;
+		cursor: pointer;
+}
+.gallery-card>img
+{
+	width: 100%;
+ 	height: 100%;
+  	object-fit: cover;
+}
+
+@media(min-width:1000px)
+{
+	.w-2
+	{
+		grid-column: span 2;
+	}
+	.w-3
+	{
+		grid-column: span 3;
+	}
+	.w-4
+	{
+		grid-column: span 4;
+	}
+	.w-5
+	{
+		grid-column: span 5;
+	}
+	.h-2
+	{
+		grid-row: span 2;
+	}
+	.h-3
+	{
+		grid-row: span 3;
+	}
+	.h-4
+	{
+		grid-row: span 4;
+	}
+	.h-5
+	{
+		grid-row: span 5;
+	}
+}
+
+
+</style>
+
+  
+</head>
+  <body>
+    <div class="container">
+      		<div class ="NAV-Wrapper">
+			<div class = "Left-Side">
+				<IMG SRC = "/NAVICON.png" />
+			</div>
+			<div class = "Right-Side"> 
+				<div class = "NAV-Link-Cover"><a href="/" >Home</a></div>
+			</div>
+		</div>
+      <main id="main">
+       
+
+		<div class = "single-container">
+			
+			
+			
+			<img src ="http://example.org/images/Img-27.png">
+		</div>
+
+      </main>
+      <footer>
+	<div class = "Footer-Text">
+		<p>Theme By Jumboji 2021-2023</p>
+	</div>
+</footer>
+    </div>
+  </body>
+</html>
