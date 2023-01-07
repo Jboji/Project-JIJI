@@ -245,7 +245,7 @@ a
 			
 			
 			
-			<img src ="http://example.org/images/Img-27.png">
+			<img src ="/images/Img-27.png">
 		</div>
 
       </main>

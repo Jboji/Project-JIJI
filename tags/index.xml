@@ -2,359 +2,359 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2023 19:07:35 -0800</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 19:07:35 -0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aji</title>
-      <link>http://example.org/tags/aji/</link>
+      <link>/tags/aji/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/aji/</guid>
+      <guid>/tags/aji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Commission</title>
-      <link>http://example.org/tags/commission/</link>
+      <link>/tags/commission/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/commission/</guid>
+      <guid>/tags/commission/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dante</title>
-      <link>http://example.org/tags/dante/</link>
+      <link>/tags/dante/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/dante/</guid>
+      <guid>/tags/dante/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Darkstalker</title>
-      <link>http://example.org/tags/darkstalker/</link>
+      <link>/tags/darkstalker/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/darkstalker/</guid>
+      <guid>/tags/darkstalker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Delta Rune</title>
-      <link>http://example.org/tags/delta-rune/</link>
+      <link>/tags/delta-rune/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/delta-rune/</guid>
+      <guid>/tags/delta-rune/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Denise</title>
-      <link>http://example.org/tags/denise/</link>
+      <link>/tags/denise/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/denise/</guid>
+      <guid>/tags/denise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fanart</title>
-      <link>http://example.org/tags/fanart/</link>
+      <link>/tags/fanart/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/fanart/</guid>
+      <guid>/tags/fanart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FF14</title>
-      <link>http://example.org/tags/ff14/</link>
+      <link>/tags/ff14/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/ff14/</guid>
+      <guid>/tags/ff14/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Final Fantasy</title>
-      <link>http://example.org/tags/final-fantasy/</link>
+      <link>/tags/final-fantasy/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/final-fantasy/</guid>
+      <guid>/tags/final-fantasy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Friday</title>
-      <link>http://example.org/tags/friday/</link>
+      <link>/tags/friday/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/friday/</guid>
+      <guid>/tags/friday/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Funkin</title>
-      <link>http://example.org/tags/funkin/</link>
+      <link>/tags/funkin/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/funkin/</guid>
+      <guid>/tags/funkin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Furry</title>
-      <link>http://example.org/tags/furry/</link>
+      <link>/tags/furry/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/furry/</guid>
+      <guid>/tags/furry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gift art</title>
-      <link>http://example.org/tags/gift-art/</link>
+      <link>/tags/gift-art/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/gift-art/</guid>
+      <guid>/tags/gift-art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Giftart</title>
-      <link>http://example.org/tags/giftart/</link>
+      <link>/tags/giftart/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/giftart/</guid>
+      <guid>/tags/giftart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gobold</title>
-      <link>http://example.org/tags/gobold/</link>
+      <link>/tags/gobold/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/gobold/</guid>
+      <guid>/tags/gobold/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grace</title>
-      <link>http://example.org/tags/grace/</link>
+      <link>/tags/grace/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/grace/</guid>
+      <guid>/tags/grace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gravity Rush</title>
-      <link>http://example.org/tags/gravity-rush/</link>
+      <link>/tags/gravity-rush/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/gravity-rush/</guid>
+      <guid>/tags/gravity-rush/</guid>
       <description></description>
     </item>
     
     <item>
       <title>H-ko</title>
-      <link>http://example.org/tags/h-ko/</link>
+      <link>/tags/h-ko/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/h-ko/</guid>
+      <guid>/tags/h-ko/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTH</title>
-      <link>http://example.org/tags/hth/</link>
+      <link>/tags/hth/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/hth/</guid>
+      <guid>/tags/hth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>JiJi</title>
-      <link>http://example.org/tags/jiji/</link>
+      <link>/tags/jiji/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/jiji/</guid>
+      <guid>/tags/jiji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jumo</title>
-      <link>http://example.org/tags/jumo/</link>
+      <link>/tags/jumo/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/jumo/</guid>
+      <guid>/tags/jumo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kit</title>
-      <link>http://example.org/tags/kit/</link>
+      <link>/tags/kit/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/kit/</guid>
+      <guid>/tags/kit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lancer</title>
-      <link>http://example.org/tags/lancer/</link>
+      <link>/tags/lancer/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/lancer/</guid>
+      <guid>/tags/lancer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lilith</title>
-      <link>http://example.org/tags/lilith/</link>
+      <link>/tags/lilith/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/lilith/</guid>
+      <guid>/tags/lilith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Morrigan</title>
-      <link>http://example.org/tags/morrigan/</link>
+      <link>/tags/morrigan/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/morrigan/</guid>
+      <guid>/tags/morrigan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Night</title>
-      <link>http://example.org/tags/night/</link>
+      <link>/tags/night/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/night/</guid>
+      <guid>/tags/night/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Noelle</title>
-      <link>http://example.org/tags/noelle/</link>
+      <link>/tags/noelle/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/noelle/</guid>
+      <guid>/tags/noelle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OC</title>
-      <link>http://example.org/tags/oc/</link>
+      <link>/tags/oc/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/oc/</guid>
+      <guid>/tags/oc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pilot</title>
-      <link>http://example.org/tags/pilot/</link>
+      <link>/tags/pilot/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/pilot/</guid>
+      <guid>/tags/pilot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pixel art</title>
-      <link>http://example.org/tags/pixel-art/</link>
+      <link>/tags/pixel-art/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/pixel-art/</guid>
+      <guid>/tags/pixel-art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk of Rain</title>
-      <link>http://example.org/tags/risk-of-rain/</link>
+      <link>/tags/risk-of-rain/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/risk-of-rain/</guid>
+      <guid>/tags/risk-of-rain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalie</title>
-      <link>http://example.org/tags/scalie/</link>
+      <link>/tags/scalie/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/scalie/</guid>
+      <guid>/tags/scalie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skullgirls</title>
-      <link>http://example.org/tags/skullgirls/</link>
+      <link>/tags/skullgirls/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/skullgirls/</guid>
+      <guid>/tags/skullgirls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spooky</title>
-      <link>http://example.org/tags/spooky/</link>
+      <link>/tags/spooky/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/spooky/</guid>
+      <guid>/tags/spooky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sprites</title>
-      <link>http://example.org/tags/sprites/</link>
+      <link>/tags/sprites/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/sprites/</guid>
+      <guid>/tags/sprites/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tasq Manager</title>
-      <link>http://example.org/tags/tasq-manager/</link>
+      <link>/tags/tasq-manager/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/tasq-manager/</guid>
+      <guid>/tags/tasq-manager/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tower Girls</title>
-      <link>http://example.org/tags/tower-girls/</link>
+      <link>/tags/tower-girls/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/tower-girls/</guid>
+      <guid>/tags/tower-girls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Undertale</title>
-      <link>http://example.org/tags/undertale/</link>
+      <link>/tags/undertale/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/undertale/</guid>
+      <guid>/tags/undertale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vidya Bum</title>
-      <link>http://example.org/tags/vidya-bum/</link>
+      <link>/tags/vidya-bum/</link>
       <pubDate>Sun, 01 Jan 2023 19:07:35 -0800</pubDate>
       
-      <guid>http://example.org/tags/vidya-bum/</guid>
+      <guid>/tags/vidya-bum/</guid>
       <description></description>
     </item>
     
