@@ -1,0 +1,298 @@
+body
+{
+	margin:0;
+	font-family:Pixel-Text;
+}
+@font-face
+{
+	font-family: 'Pixel-Text';
+	src:url(../fonts/slkscre.ttf);
+}
+/*Home Page*/
+
+.home
+{	
+	background:red;
+
+	display:grid;
+	grid-gap: 5px;
+
+	max-width:2400px;
+	min-height:calc(2000px*9/16);
+
+	margin:auto;
+	margin-top:3%;
+
+	grid-template-columns:0.125fr 0.125fr auto ;
+	grid-template-rows: 1.25fr .25fr .75fr .75fr;
+	grid-template-areas: 
+	"library library gallery"
+	"socials socials gallery"  	
+	"games about gallery"
+	"games services gallery";
+
+	border-top: 25px solid red;
+	border-bottom: 25px solid red;
+
+	overflow:hidden;
+}
+.menu
+{
+	overflow:hidden;
+}
+.navigation
+{
+	position:absolute;
+	transform:translate(10px,-20px);
+}
+.navigation > a
+{
+	color:white;
+	text-decoration: none;
+}
+.home-gallery
+{
+	background:white;
+	grid-area:gallery;
+	position:relative;
+	overflow:hidden;
+}
+.home-library
+{
+	background:white;
+	grid-area:library;
+	position:relative;
+	overflow:hidden;
+}
+.home-library img
+{
+	height:100%;
+	width:100%;
+}
+.home-socials
+{
+	background:white;
+	grid-area:socials;
+	position:relative;
+	overflow:hidden;
+}
+.home-socials img
+{
+	height:100%;
+	
+}
+.home-games
+{
+	background:white;
+	grid-area:games;
+	position:relative;
+
+}
+.home-games img
+{
+	height:100%;
+	width:100%;
+}
+.home-about
+{
+	background:white;
+	grid-area:about;
+	position:relative;
+}
+.home-about img
+{
+	height:100%;
+	
+}
+.home-services
+{
+	background:white;
+	grid-area:services;
+	position:relative;
+}
+.home-services img
+{
+	height:100%;
+	width:100%;
+}
+.section-text
+{
+	position:absolute;
+	top:0;
+	right: 0;
+	margin:0;
+	background-color:red;
+	color:white;
+	z-index:5;
+}
+
+	/*pixel art*/
+.pixelart-container
+{
+	position:absolute;
+}
+.pixelart-container:hover .pixelart-text
+{
+	position:absolute;
+
+	content:'original';
+	font-family:Pixel-Text;
+	text-align: center;
+	
+	color: white;
+	transform:translateY(-35px);
+
+	animation-name:Fade-In-And-Drop;
+	animation-duration: .5s;
+	animation-fill-mode: both;
+
+	visibility: visible;
+	display:block;
+}
+
+.pixelart-text
+{
+	visibility: hidden;
+	display:none;
+}
+
+.pixelart-object
+{
+	position:relative;
+	cursor:pointer;
+
+	animation-name: Fade-In-And-Drop;
+	animation-duration: 1s;
+	animation-fill-mode: both;
+}
+.static-object
+{
+	position:absolute;
+
+	animation-name: Fade-In-And-Drop;
+	animation-duration: 1s;
+	animation-fill-mode: both;
+
+}
+/*gallery*/
+.gallery::-webkit-scrollbar {width: 0 !important;}
+.gallery
+{
+	background:red;
+	max-width:2400px;
+	max-height:calc(2000px*9/16);
+	margin:auto;
+	margin-top:3%;
+
+	border-top: 25px solid red;
+	border-bottom: 25px solid red;
+
+	overflow: auto;
+}
+.gallery-grid
+{
+	width:100%;
+
+	display:grid;
+
+	grid-auto-rows: 235px;
+	grid-template-columns:repeat(10,235px);
+	gap:5px;
+
+	cursor:pointer;
+}
+/*lightbox*/
+
+#lightbox
+{
+position:fixed;
+z-index:100;
+top: 0;
+width:100%;
+height:100%;
+background-color:rgba(0, 0, 0, .8);
+display:none;
+}
+
+#lightbox.active
+{
+	display: flex;
+	justify-content:center;
+	align-items:center;
+}
+#lightbox img
+{
+
+	max-height:90%;
+	width:auto;
+}
+
+/*animations*/
+@keyframes Fade-In-And-Drop
+{
+  	from {top: -200px;opacity: 0;}
+  	to{top: 0px;opacity: 1;}
+}
+
+/*phone*/
+@media only screen and (max-width: 1280px)
+{
+	.home
+	{
+		margin-top:0;
+
+		grid-template-columns:1fr 1fr  ;
+		grid-template-rows: 1.59fr .75fr .75fr .75fr;
+		grid-template-areas: 
+		"gallery gallery "
+		"library library"  	
+		"socials  about"
+		"games services";
+	}
+	.gallery
+	{
+		margin-top:0;
+	}
+	.gallery-grid
+	{
+		width:100%;
+
+		display:grid;
+
+		grid-auto-rows: 235px;
+		grid-template-columns:repeat(1,auto);
+		gap:5px;
+
+		cursor:pointer;
+		overflow:hidden;
+
+
+		min-width: 0;
+	}
+	.gallery-grid img
+	{
+		margin: auto;
+	}
+	.home-gallery
+	{
+		overflow:auto;
+	}
+	.pixelart-container .pixelart-text
+	{
+		position:absolute;
+
+		content:'original';
+		font-family:Pixel-Text;
+		text-align: center;
+		
+		color: white;
+		transform:translateY(-35px);
+
+		animation-name:Fade-In-And-Drop;
+		animation-duration: .5s;
+		animation-fill-mode: both;
+
+		visibility: visible;
+		display:block;
+	}
+}
